@@ -1,37 +1,36 @@
 [
     {
-      "name": "[3d]ボールころころ2",
-      "dispName": "[3D]ボールころころ2",
-      "description": "",
+      "name": "Fyrecraft: Revived",
+      "dispName": "Fyrecraft: Revived",
+      "description": "Fyrecraft is BACK BABY!!! Multiplayer coming soon!",
       "siteTags": [
-        "rolling sky",
+        "minecraft",
         "HTML5",
-        "scratch",
+        "eaglercraft",
         "3d",
         "html5",
-        "ball",
-        "1 player",
-        "1 level"
+        "fyre",
+        "multiplayer",
+        "fyrecraft"
       ],
       "metaTags": [
-        "math games 66",
-        "mathgames66",
-        "unblocked",
-        "online",
-        "free",
-        "games",
-        "game",
-        "interactive",
-        "HTML5"
+        "minecraft",
+        "HTML5",
+        "eaglercraft",
+        "3d",
+        "html5",
+        "fyre",
+        "multiplayer",
+        "fyrecraft"
       ],
       "series": null,
-      "isMobile": true,
+      "isMobile": false,
       "creator": "s00384206",
-      "uploader": "rm",
+      "uploader": "imcalledfyre",
       "pageData": {
         "isFrame": "iframe",
         "attributes": {
-          "src": "../games/html5/ball2/",
+          "src": "../games/html5/fyrecraft/server.html",
           "allowtransparency": "true",
           "frameborder": "0",
           "scrolling": "no",
@@ -39,8 +38,8 @@
           "style": "min-width: 485px; min-height: 402px; "
         }
       },
-      "url": "scratch-rollingsky",
-      "thumbnailURL": "3d2.png"
+      "url": "fyrecraft",
+      "thumbnailURL": "fyrecraft.png"
     },
     {
       "name": "2020game",
