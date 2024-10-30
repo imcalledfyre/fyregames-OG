@@ -41,12 +41,18 @@
 
     <h1>Fyrecraft: Revived</h1>
     <button onclick="openPopup()">Launch Game</button>
+        <button onclick="openPopupSigma()">Sign Up</button>
+    <h3>You must sign up to be able to play multiplayer!!</h3>
     <p>Disclaimer: You must be done with all work to continue.</p>
     <p>By continuing, you agree that I am not responsible for any damage or grade reductions/punishments</p>
     <p>from playing this game. Thanks for choosing Team Fyre!</p>
 
     <script>
         function openPopup() {
+            window.open('../fyrecraft/server.html', 'popup', 'width=800,height=600,resizable=yes');
+        }
+
+        function openPopupSigma() {
             window.open('../fyrecraft/server.html', 'popup', 'width=800,height=600,resizable=yes');
         }
     </script>
