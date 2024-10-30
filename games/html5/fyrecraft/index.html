@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fyrecraft: Revived</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: #f4f4f4;
+            text-align: center;
+        }
+        h1 {
+            font-size: 3em;
+            margin-bottom: 20px;
+            color: #f7a731;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 1.2em;
+            cursor: pointer;
+            color: #fff;
+            background-color: #ff4500;
+            border: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #e03d00;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Fyrecraft: Revived</h1>
+    <button onclick="openPopup()">Launch Game</button>
+    <p>Disclaimer: You must be done with all work to continue.</p>
+    <p>By continuing, you agree that I am not responsible for any damage or grade reductions/punishments</p>
+    <p>from playing this game. Thanks for choosing Team Fyre!</p>
+
+    <script>
+        function openPopup() {
+            window.open('/server.html', 'popup', 'width=800,height=600,resizable=yes');
+        }
+    </script>
+
+</body>
+</html>
